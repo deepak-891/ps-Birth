@@ -19,7 +19,7 @@
 @media only screen and (max-width: 1030px) {
     .h3-left, .h3-right {
         width: 350px;
-        padding: 8px 20px 8px 20px !important;
+        padding: 8px 30px 8px 30px !important;
         overflow-y: hidden;
     }
 }
