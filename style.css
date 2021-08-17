@@ -188,10 +188,11 @@ h2 {
     overflow-y: hidden;
     font-family: 'Great Vibes', cursive;
     text-align: center;
-    line-height: 3rem;
-    text-decoration: underline overline solid #333;
+    /* line-height: 3rem; */
+    text-decoration: overline solid #333;
     letter-spacing: 3.5px;
     font-weight: bolder;
+    padding: 1px;
 }
 .container-fluid .container p {
     text-align: center;
