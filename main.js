@@ -23,6 +23,25 @@
         delay: 4000,
     }, 4000)
 
+    sr.reveal('#chat2', {
+      delay: 4500,
+  }, 4000)
+  sr.reveal('#chat3', {
+    delay: 5000,
+}, 4000)
+sr.reveal('#chat4', {
+  delay: 5500,
+}, 4000)
+sr.reveal('#chat5', {
+  delay: 6000,
+}, 4000)
+sr.reveal('#chat6', {
+  delay: 6500,
+}, 4000)
+sr.reveal('#chat7', {
+  delay: 7000,
+}, 4000)
+
 
     sr.reveal('h2', {
       viewFactor:0.2,
