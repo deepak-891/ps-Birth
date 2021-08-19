@@ -64,6 +64,4 @@ sr.reveal('#chat7', {
       viewFactor: 0.2,
       rotate: {x: 0, y: 900, z: 0}
     });
-    window.onload = function() {
-      document.getElementById("tah_audio").play();
-  }
+    
