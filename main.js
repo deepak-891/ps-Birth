@@ -39,8 +39,8 @@ sr.reveal('#chat6', {
   delay: 6500,
 }, 4000)
 sr.reveal('#chat7', {
-  delay: 2500,
-}, 2000)
+  delay: 1500,
+}, 1000)
 
 
     sr.reveal('h2', {
